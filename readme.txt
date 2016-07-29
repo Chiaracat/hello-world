@@ -1,4 +1,4 @@
-Hello, my name is Chiara Sophia Merrill. I have brown hair that comes down to my shoulders. I am twelve years old. I was born on the 29th of November 2003. I am writing this file on the command line in emacs. The computer I am using is my programming computer. It has some programming stickers on the front that I stuck on it.
+Hello, my name is Chiara Sophia Merrill. I have brown hair that comes down to my shoulders and hazel eyes. I am twelve years old. I was born on the 29th of November 2003. I am writing this file on the command line in emacs. The computer I am using is my programming computer. It has some programming stickers on the front that I stuck on it.
 
 Me: Kingdom: Animalia
     Phylum: Chordata
